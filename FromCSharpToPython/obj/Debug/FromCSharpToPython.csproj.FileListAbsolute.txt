@@ -1,0 +1,7 @@
+C:\Users\Home\Desktop\FromCSharpToPython\bin\Debug\FromCSharpToPython.exe.config
+C:\Users\Home\Desktop\FromCSharpToPython\bin\Debug\FromCSharpToPython.exe
+C:\Users\Home\Desktop\FromCSharpToPython\bin\Debug\FromCSharpToPython.pdb
+C:\Users\Home\Desktop\FromCSharpToPython\obj\Debug\FromCSharpToPython.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\FromCSharpToPython\obj\Debug\FromCSharpToPython.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\FromCSharpToPython\obj\Debug\FromCSharpToPython.exe
+C:\Users\Home\Desktop\FromCSharpToPython\obj\Debug\FromCSharpToPython.pdb
